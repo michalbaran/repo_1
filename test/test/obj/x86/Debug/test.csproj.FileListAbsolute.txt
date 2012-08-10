@@ -1,0 +1,7 @@
+P:\projekty\test\test\bin\Debug\test.exe
+P:\projekty\test\test\bin\Debug\test.pdb
+P:\projekty\test\test\bin\Debug\mcMath.dll
+P:\projekty\test\test\bin\Debug\mcMath.pdb
+P:\projekty\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\projekty\test\test\obj\x86\Debug\test.exe
+P:\projekty\test\test\obj\x86\Debug\test.pdb
